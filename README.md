@@ -9,7 +9,9 @@
 - **Telegram**: [romikabi](https://tele.click/romikabi) или [heykarolina](https://tele.click/heykarolina)
 - **VK**: https://vk.com/romikabi или https://vk.com/heykarolina
 - **Почта**: abuzyarovroman@gmail.com или tretyakovakarolina@gmail.com
-- Если вам важно оставаться анонимным, можно загрузить видео на какой-либо хостинг (например, на https://gofile.io), и отправить ссылку на него через [форму](https://goo.gl/forms/jvBmHEeJLtYV74Np1).
+- Если вам важно оставаться анонимным, можно загрузить видео на какой-либо хостинг (например, на https://gofile.io)
+
+После этого нужно ответить на два вопроса с выбором варианта ответа по поводу опыта использования клиентов в [форме](https://goo.gl/forms/HEYy907vkj1oUS8H3). Там же можно указать ссылку на загруженное видео.
 
 ### Установка клиентов
 
