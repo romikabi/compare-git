@@ -1,0 +1,3 @@
+[submodule "hmi_class"]
+	path = hmi_class
+	url = https://github.com/rhangelxs/hmi_class.git
